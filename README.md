@@ -43,8 +43,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejOnedayxneBscene&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangc06&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roxxiebstar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roxxiebstar&layout=compact&theme=radical" alt="Top Languages" />
   
   <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
