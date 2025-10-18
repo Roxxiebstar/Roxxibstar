@@ -6,7 +6,7 @@
 </p>
 
 
-## 👋 HI NICE TO MEET YOU, I'M ALEJANDRO GUZMAN!
+## 👋 HI NICE TO MEET YOU, I'M KATHERINE BUITRAGO !
 
 - I'm an enthusiastic software engineering student with a burning passion for coding and technology. 
 
